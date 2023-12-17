@@ -1,0 +1,15 @@
+C:\Users\enriq\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\enriq\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\enriq\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.AssemblyReference.cache
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\MainWindow.g.cs
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\App.g.cs
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon_MarkupCompile.cache
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon_MarkupCompile.lref
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\MainWindow.baml
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.g.resources
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\enriq\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
